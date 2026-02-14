@@ -3,7 +3,8 @@ import React from 'react'
 export default function Home() {
   return (
     <div>
-      Ayush das
+      Ayush das.
+      Hello
     </div>
   )
 }
